@@ -5,29 +5,29 @@ Hey, I'm Ale (he/him) from Sao Paulo/Brazil. So, after a couple of years of gove
 
 ## Things I'm kinda confortable with:
 <div>
-<a href="#"><img src='/assets/tux.png' alt='Linux' width='40px'></a>
-<a href="#"><img src='/assets/console.png' alt='Terminal' width='40px'></a>
+<a href="#"><img src='/assets/tux.png' alt='Linux' height='40px'></a>
+<a href="#"><img src='/assets/console.png' alt='Terminal' height='40px'></a>
 </div>
 <div>
-<a href="#"><img src='/assets/html.png' alt='HTML5' width='40px'></a>
-<a href="#"><img src='/assets/css3.png' alt='CSS3' width='40px'></a>
-<a href="#"><img src='/assets/javascript.png' alt='Javascript' width='40px'></a> (ish)
+<a href="#"><img src='/assets/html.png' alt='HTML5' height='40px'></a>
+<a href="#"><img src='/assets/css3.png' alt='CSS3' height='40px'></a>
+<a href="#"><img src='/assets/javascript.png' alt='Javascript' height='40px'></a> (ish)
 </div>
 <div>
-<a href="#"><img src='/assets/vscode.png' alt='VSCode' width='40px'></a>
-<a href="#"><img src='/assets/git.png' alt='GitHub' width='40px'></a> (ish)
+<a href="#"><img src='/assets/vscode.png' alt='VSCode' height='40px'></a>
+<a href="#"><img src='/assets/git.png' alt='GitHub' height='40px'></a> (ish)
 </div>
 <div>
-<a href="#"><img src='/assets/gip.png' alt='Gimp' width='40px'></a>
-  <a href="#"><img src='/assets/inkscape.png' alt='Inkscape' width='40px'></a>
+<a href="#"><img src='/assets/gip.png' alt='Gimp' height='40px'></a>
+  <a href="#"><img src='/assets/inkscape.png' alt='Inkscape' height='40px'></a>
 </div>
 
 
 ## Things I'm interested in learning/will spend half an hour on Stack Overflow over a semicolon crisis:
 
-<a href="#"><img src='/assets/nodejs.png' alt='NodeJS' width='40px'></a>
-<a href="#"><img src='/assets/rails.png' alt='Rails' width='40px'></a>
-<a href="#"><img src='/assets/react.png' alt='React' width='40px'></a>
-<a href="#"><img src='/assets/tailwind.png' alt='Tailwind' width='40px'></a>
-<a href="#"><img src='/assets/godot.png' alt='Godot' width='40px'></a>
+<a href="#"><img src='/assets/nodejs.png' alt='NodeJS' height='40px'></a>
+<a href="#"><img src='/assets/rails.png' alt='Rails' height='40px'></a>
+<a href="#"><img src='/assets/react.png' alt='React' height='40px'></a>
+<a href="#"><img src='/assets/tailwind.png' alt='Tailwind' height='40px'></a>
+<a href="#"><img src='/assets/godot.png' alt='Godot' height='40px'></a>
 
