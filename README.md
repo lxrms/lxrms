@@ -3,6 +3,9 @@
 # Sup :)
 Hey, I'm Ale (he/him) from Sao Paulo/Brazil. So, after a couple of years of government jobs I'm starting again to actually code stuff. It's been fun but the whole pandemic/end of the world scenario made me quesiton some of my career choices and managing contracts doesn't really make me wanna jump outta bed on a monday morning and, since I always come back to check whats's new on the dev world, I guess it's time I give it a real chance.
 
+## Studying right now (literally now, july/21):
+- 'Foundations' by <a href='https://www.theodinproject.com/'>The Odin Project</a>
+
 ## Things I'm kinda confortable with:
 <div>
 <a href="#"><img src='/assets/tux.png' alt='Linux' height='40px'></a>
