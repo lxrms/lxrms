@@ -7,10 +7,14 @@ Hey, I'm Ale (he/him) from Sao Paulo/Brazil. So, after a couple of years of gove
 <div>
 <a href="#"><img src='/assets/tux.png' alt='Linux' width='40px'></a>
 <a href="#"><img src='/assets/console.png' alt='Terminal' width='40px'></a>
+</div>
+<div>
 <a href="#"><img src='/assets/html.png' alt='HTML5' width='40px'></a>
 <a href="#"><img src='/assets/css3.png' alt='CSS3' width='40px'></a>
-<a href="#"><img src='/assets/vscode.png' alt='VSCode' width='40px'></a>
 <a href="#"><img src='/assets/javascript.png' alt='Javascript' width='40px'></a> (ish)
+</div>
+<div>
+<a href="#"><img src='/assets/vscode.png' alt='VSCode' width='40px'></a>
 <a href="#"><img src='/assets/git.png' alt='GitHub' width='40px'></a> (ish)
 </div>
 <div>
