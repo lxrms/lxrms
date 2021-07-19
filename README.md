@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/joyousblunder/joyousblunder"><img src='/assets/logo.png' width='35%'></a></p>
 
 # Sup :)
-Hey, I'm Ale (he/him). So, after a couple of years of government jobs I'm starting again to actually code stuff. It's been fun but the whole pandemic/end of the world scenario made me quesiton some of my career choices and managing contracts doesn't really make me wanna jump outta bed on a monday morning and, since I always come back to check whats's new on the dev world, I guess it's time I give it a real chance.
+Hey, I'm Ale (he/him) from Sao Paulo/Brazil. So, after a couple of years of government jobs I'm starting again to actually code stuff. It's been fun but the whole pandemic/end of the world scenario made me quesiton some of my career choices and managing contracts doesn't really make me wanna jump outta bed on a monday morning and, since I always come back to check whats's new on the dev world, I guess it's time I give it a real chance.
 
 ## Things I'm kinda confortable with:
 <div>
