@@ -31,7 +31,7 @@ Hey, I'm Ale (he/him) from Sao Paulo/Brazil. So, after a couple of years of gove
 <a href="#"><img src='/assets/nodejs.png' alt='NodeJS' height='40px'></a>
 <a href="#"><img src='/assets/rails.png' alt='Rails' height='40px'></a>
 <a href="#"><img src='/assets/react.png' alt='React' height='40px'></a>
-<a href="#"><img src='/assets/vue.png' alt='Vue' height='40px'></a>
+<a href="#"><img src='/assets/vue.png' alt='Vue' height='30px'></a>
 <a href="#"><img src='/assets/tailwind.png' alt='Tailwind' height='40px'></a>
 <a href="#"><img src='/assets/godot.png' alt='Godot' height='40px'></a>
 
