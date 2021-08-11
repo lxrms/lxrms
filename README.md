@@ -4,9 +4,8 @@
 Hey, I'm Ale (he/him) from Sao Paulo/Brazil. So, after a couple of years of government jobs I'm starting again to actually code stuff. It's been fun but the whole pandemic/end of the world scenario made me quesiton some of my career choices and managing contracts doesn't really make me wanna jump outta bed on a monday morning and, since I always come back to check whats's new on the dev world, I guess it's time I give it a real chance.
 
 ## Studying right now (literally now, aug/21):
-
-<a href="#"><img src='/assets/vue.png' alt='Vue' width='40px'></a>
 <a href="#"><img src='/assets/tailwind.png' alt='Tailwind' width='40px'></a>
+<a href="#"><img src='/assets/vue.png' alt='Vue' width='40px'></a> (kudo to The Net Ninja (Shaun Pelling) for the always excellent tutorials 🙏)
 
 ## Things I'm kinda confortable with:
 <div>
@@ -25,6 +24,8 @@ Hey, I'm Ale (he/him) from Sao Paulo/Brazil. So, after a couple of years of gove
 <div>
   <a href="#"><img src='/assets/gip.png' alt='Gimp' width='40px'></a>
   <a href="#"><img src='/assets/inkscape.png' alt='Inkscape' width='40px'></a>
+  <a href="#"><img src='/assets/blender.png' alt='Blender' width='40px'></a>
+
 </div>
 
 ## Backlog of things I'm interested in learning:
