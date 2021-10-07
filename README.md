@@ -1,4 +1,3 @@
-<p align="center"><a href="https://github.com/joyousblunder/joyousblunder"><img src='/assets/logo.png' width='20%'></a></p>
 
 ## Who?
 
