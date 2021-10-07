@@ -3,11 +3,10 @@
 
 A São Paulo/Brazil based dev interested in visual experiences. 
 
-## Studying right now (literally now, September/2021):
+## Studying right now (literally now, October/2021):
 <div>
-  <a href="https://github.com/vuejs/vue"><img src='/assets/vue.png' alt='Vue' width='40px'></a>
-  <a href="https://firebase.google.com/?hl=pt"><img src='/assets/firebase.png' alt='Firebase' width='40px'></a>
-  <a href="https://github.com/tailwindlabs/tailwindcss"><img src='/assets/tailwind.png' alt='Tailwind' width='40px'></a>
+  <a href="https://github.com/flutter/flutter"><img src='/assets/flutter.png' alt='Flutter' width='40px'></a>
+  <a href="https://github.com/godotengine/godot"><img src='/assets/godot.png' alt='Godot' width='40px'></a>
 </div>
 
 ## Things I'm kinda confortable with:
@@ -33,9 +32,6 @@ A São Paulo/Brazil based dev interested in visual experiences.
 
 ## Backlog of stuff I'm interested in learning:
 <div>
-  <a href="https://github.com/flutter/flutter"><img src='/assets/flutter.png' alt='Flutter' width='40px'></a>
   <a href="https://github.com/facebook/react"><img src='/assets/react.png' alt='React' width='40px'></a>
   <a href="https://github.com/nodejs/node"><img src='/assets/nodejs.png' alt='NodeJS' width='40px'></a>
-  <a href="https://github.com/rails/rails"><img src='/assets/rails.png' alt='Rails' width='40px'></a>
-  <a href="https://github.com/godotengine/godot"><img src='/assets/godot.png' alt='Godot' width='40px'></a>
 </div>
