@@ -1,12 +1,13 @@
 
 ## Who?
 
-A São Paulo/Brazil based dev interested in visual experiences. 
+Hey, I'm Alex. A thirtysomething dev trying to create the next big thing.
 
-## Studying right now (literally now, October/2021):
+## Studying right now (literally now, November/2021):
 <div>
-  <a href="https://github.com/flutter/flutter"><img src='/assets/flutter.png' alt='Flutter' width='40px'></a>
   <a href="https://github.com/godotengine/godot"><img src='/assets/godot.png' alt='Godot' width='40px'></a>
+  <a href="https://github.com/facebook/react"><img src='/assets/react.png' alt='React' width='40px'></a>
+
 </div>
 
 ## Things I'm kinda confortable with:
@@ -32,6 +33,6 @@ A São Paulo/Brazil based dev interested in visual experiences.
 
 ## Backlog of stuff I'm interested in learning:
 <div>
-  <a href="https://github.com/facebook/react"><img src='/assets/react.png' alt='React' width='40px'></a>
+  <a href="https://github.com/flutter/flutter"><img src='/assets/flutter.png' alt='Flutter' width='40px'></a>
   <a href="https://github.com/nodejs/node"><img src='/assets/nodejs.png' alt='NodeJS' width='40px'></a>
 </div>
